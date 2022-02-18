@@ -22,6 +22,6 @@ This project can be either very simple or very challenging depending on how far 
 
 Don't use a model/algorithm you don't understand just because it performs better. The goal of the project is to practice what you learned, hone your research skills, and – most importantly – have great fun!
 
-### NOTE - Remember that the scope of this project is algorithms covered in this course. You may use one additional algorithm of your choice, provided you are fully aware of how it works.
+#### NOTE - Remember that the scope of this project is algorithms covered in this course. You may use one additional algorithm of your choice, provided you are fully aware of how it works.
 
-### Jupyter Notebook : https://nbviewer.org/github/divergent99/Univ.AI-DS-1-Project/blob/main/DS_1_Project.ipynb
+#### Jupyter Notebook : https://nbviewer.org/github/divergent99/Univ.AI-DS-1-Project/blob/main/DS_1_Project.ipynb
