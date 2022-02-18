@@ -1,7 +1,8 @@
 # Univ.AI-DS-1-Project
 <p align="center">
-  <img src="https://github.com/divergent99/divergent99/blob/main/Squid%20Games.gif" alt="Stats" width="400" height="250">
+  <img src="https://github.com/divergent99/Univ.AI-DS-1-Project/blob/main/Poster_template%202.jpg" alt="Stats" width="400" height="250">
 </p>
+
 ### Problem Statement
 
 In this project, you will create a recommendation system for restaurants using collaborative filtering (CF). You will be using the Yelp Dataset for this.
