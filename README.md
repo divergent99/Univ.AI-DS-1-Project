@@ -1,6 +1,6 @@
 # Univ.AI-DS-1-Project
 <p align="center">
-  <img src="https://github.com/divergent99/Univ.AI-DS-1-Project/blob/main/Poster_template%202.jpg" alt="Stats" width="800" height="550">
+  <img src="https://github.com/divergent99/Univ.AI-DS-1-Project/blob/main/Poster_template%202.jpg" alt="Stats" width="850" height="600">
 </p>
 
 ### Problem Statement
